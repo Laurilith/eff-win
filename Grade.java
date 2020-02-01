@@ -19,6 +19,9 @@ final class Grade {
 	public void callOut() {
 		System.out.println("Eyoo!");
 	}
+	public void callIn() {
+		System.out.println("yoo!");
+	}
 	public double getGPA() {
 		return GPA;
 	}
