@@ -16,6 +16,9 @@ final class Grade {
 	public int getCH() {
 		return CH;
 	}	
+	public void callOut() {
+		System.out.println("Eyoo!");
+	}
 	public double getGPA() {
 		return GPA;
 	}
